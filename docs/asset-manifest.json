@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/funbox-test/static/css/main.2bba8f72.chunk.css",
+    "main.js": "/funbox-test/static/js/main.5a3726f7.chunk.js",
+    "runtime~main.js": "/funbox-test/static/js/runtime~main.ab6012da.js",
+    "static/js/2.6d8b07e9.chunk.js": "/funbox-test/static/js/2.6d8b07e9.chunk.js",
+    "index.html": "/funbox-test/index.html",
+    "precache-manifest.f73382baf7776a67d8313991246eaf03.js": "/funbox-test/precache-manifest.f73382baf7776a67d8313991246eaf03.js",
+    "service-worker.js": "/funbox-test/service-worker.js"
+  }
+}

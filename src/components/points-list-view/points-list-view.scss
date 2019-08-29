@@ -1,0 +1,25 @@
+.points-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.points-list__item {
+    display: flex;
+    padding: 5px 10px;
+    justify-content: space-between;
+    font-size: 13px;
+    cursor: move;
+}
+
+.points-list__item-index {
+    padding-right: 10px;
+}
+
+.points-list__item-name {
+    font-size: 13px;
+}
+
+.points-list__item-remove {
+    cursor: pointer;
+    margin-left: auto;
+}

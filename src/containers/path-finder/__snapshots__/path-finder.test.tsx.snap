@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PathFinder /> Renders PathFinder component 1`] = `
+<div
+  className="path-finder"
+>
+  <div
+    className="path-finder__sidebar"
+  >
+    <input
+      autoFocus={true}
+      className="path-finder__searct-input"
+      id="suggest"
+      type="text"
+    />
+  </div>
+  <div
+    className="path-finder__map-container"
+  />
+</div>
+`;

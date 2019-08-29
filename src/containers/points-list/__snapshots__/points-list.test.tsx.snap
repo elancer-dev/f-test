@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PointsList /> Renders PointsList component 1`] = `
+<div
+  className="points-list"
+>
+  <div
+    className="points-list__item"
+    data-order={0}
+    draggable={true}
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "order": 4,
+      }
+    }
+  >
+    <div
+      className="points-list__item-index"
+    >
+      1
+    </div>
+    <div
+      className="points-list__item-name"
+    >
+      name1
+    </div>
+    <div
+      className="points-list__item-remove"
+      onClick={[Function]}
+    >
+      x
+    </div>
+  </div>
+  <div
+    className="points-list__item"
+    data-order={1}
+    draggable={true}
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "order": 5,
+      }
+    }
+  >
+    <div
+      className="points-list__item-index"
+    >
+      2
+    </div>
+    <div
+      className="points-list__item-name"
+    >
+      name2
+    </div>
+    <div
+      className="points-list__item-remove"
+      onClick={[Function]}
+    >
+      x
+    </div>
+  </div>
+  <div
+    className="points-list__item"
+    data-order={2}
+    draggable={true}
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "order": 6,
+      }
+    }
+  >
+    <div
+      className="points-list__item-index"
+    >
+      3
+    </div>
+    <div
+      className="points-list__item-name"
+    >
+      name3
+    </div>
+    <div
+      className="points-list__item-remove"
+      onClick={[Function]}
+    >
+      x
+    </div>
+  </div>
+  <div
+    className="points-list__item"
+    data-order={3}
+    draggable={true}
+    onDragEnd={[Function]}
+    onDragOver={[Function]}
+    onDragStart={[Function]}
+    style={
+      Object {
+        "order": 7,
+      }
+    }
+  >
+    <div
+      className="points-list__item-index"
+    >
+      4
+    </div>
+    <div
+      className="points-list__item-name"
+    >
+      name4
+    </div>
+    <div
+      className="points-list__item-remove"
+      onClick={[Function]}
+    >
+      x
+    </div>
+  </div>
+</div>
+`;
